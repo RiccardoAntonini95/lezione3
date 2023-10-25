@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+
+#logo{
+    width: 13%;
+}
+
+#focaccia{
+    width:100%;
+}
+
+header hr{
+    border-top: 1px solid orange;
+}
+
+main hr{
+    border-top: 1px solid lightblue;
+}
+
+main{
+    font-family: 'Lora', serif;
+    font-size: 0.9em;
+}
+
+h1{
+    font-size: 2em;
+}
+
+main, footer{
+    padding: 0 228px;
+}
+
+header, .maincontent{
+    text-align: center;
+}
+
+header p {
+    color: #107777;
+    font-size: 0.8em;
+}
+
+header p strong{
+    text-transform: uppercase;
+}
+
+nav p{
+    color: red;
+    text-transform: uppercase;
+}
+
+nav a{
+    text-transform: capitalize;
+}
+
+figcaption{
+    color: lightgray;
+}
